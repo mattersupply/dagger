@@ -1,6 +1,6 @@
 # Dagger
 
-Dagger is a small set of API utilities and middlewares that can be re-used across different projects.
+Dagger is a small set of Golang web services/API utilities and middlewares that can be re-used across different projects.
 
 Currently included are:
 
