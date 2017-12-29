@@ -11,7 +11,7 @@ Simple CORS Adapter using the standard CORS package.
 Currently just writes the response header as JSON.
 Future use cases include making sure that the data written to the response is actual JSON.
 
-## JSON resposne writer addition
+## JSON response writer addition
 Simple function to write a payload of any interface to JSON via json.marshal.
 Deals with errors resulting from such operations and writes the response codes to the ResponseWriter.
 
