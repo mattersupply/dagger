@@ -18,3 +18,4 @@ Deals with errors resulting from such operations and writes the response codes t
 ## Adapter
 Interface and function to allow middlewares to be strung together and then called as a series of middlewares on handlers.
 This allows us to create higher order functions that handlers can be passed into.
+Inspired by https://medium.com/@matryer/writing-middleware-in-golang-and-how-go-makes-it-so-much-fun-4375c1246e81
